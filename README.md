@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻  currently working as Chief Technology Officer 🚀 at Message Alarm</div>  
+### <div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻  currently working as Chief Executive Officer 🚀 at Zaxroid</div>  
   
 
-- 🔭 I’m currently working on Message Alarm app
+- 🔭 I’m currently working on the Zaxroid SaaS platform
   
 - 🌱 I’m currently learning Deep Learning and NLP(Natural Language Processing)  
   
