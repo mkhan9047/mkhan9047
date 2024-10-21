@@ -5,6 +5,8 @@
 
 <div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻 currently working as Chief Executive Officer 🚀 at OLL.E</div>
 
+<br/>
+
 🔭 I’m currently working on the OLL.E SaaS platform
 
 🌱 I’m currently learning Deep Learning and NLP (Natural Language Processing)
