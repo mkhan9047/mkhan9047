@@ -3,13 +3,13 @@
 </div>  
   
 
-<div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻 currently working as Chief Executive Officer 🚀 at OLL.E</div>
+<div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻 currently working as CEO & CTO 🚀 at OLL.E</div>
 
 <br/>
 
-🔭 I’m currently working on the OLL.E SaaS platform
+🔭 I’m currently working on the OLL.E platform to revolutionize waiting problem of human being
 
-🌱 I’m currently learning Deep Learning and NLP (Natural Language Processing)
+🌱 I’m currently deep diving into Deep Learning and NLP (Natural Language Processing)
 
 ❓ Ask me about anything related to Reactive Programming and related technologies
 
