@@ -3,15 +3,19 @@
 </div>  
   
 
-<div align="center">I'm Mujahid Khan, a passonitate software engineer 👨‍💻 currently working as Chief Executive Officer & Cheif Technology Officer 🚀 at OLL.E</div>
+<div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻 currently working as Chief Executive Officer 🚀 at OLL.E</div>
 
-🔭 I’m currently working on the OLL.E platform, transforming waiting problem with AI
-🌱 I’m deepening my knowledge in Deep Learning and Natural Language Processing (NLP)
-❓ Ask me anything about Reactive Programming and related technologies
-⚡ Fun fact: I feel sleepy under-pressure
-🥳 Love fact: I love to cook, read books, and explore the world on my motorcycle
+🔭 I’m currently working on the OLL.E SaaS platform
 
-<br/>  
+🌱 I’m currently learning Deep Learning and NLP (Natural Language Processing)
+
+❓ Ask me about anything related to Reactive Programming and related technologies
+
+⚡ Fun fact: I laugh over worries
+
+🥳 Love fact: I love to cook, I love read books, and I love to travel on my motorcycle.
+
+<br/>
 
 
 ## My Skill Set  
