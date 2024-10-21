@@ -81,6 +81,20 @@
 
 </td><td valign="top" width="33%">
 
+### AI & NLP  
+<div align="center">  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rnn-icon.svg" alt="RNN" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn-icon.svg" alt="CNN" height="50" /></a>  
+<a href="https://huggingface.co/transformers/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bert-icon.svg" alt="BERT" height="50" /></a>  
+<a href="https://openai.com/research" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gpt-icon.svg" alt="GPT" height="50" /></a>  
+<a href="https://spacy.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/spacy-icon.svg" alt="spaCy" height="50" /></a>  
+<a href="https://www.nltk.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nltk-icon.svg" alt="NLTK" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras-icon.svg" alt="Keras" height="50" /></a>  
+</div>
+</td><td valign="top" width="33%">
+
 
 
 ### DevOps  
