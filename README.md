@@ -15,7 +15,7 @@
 
 ⚡ Fun fact: I laugh over worries
 
-🥳 Love fact: I love to cook, I love read books, and I love to travel on my motorcycle.
+🥳 Love fact: I love to cook, I love to read books, and I love to travel on my motorcycle.
 
 <br/>
 
