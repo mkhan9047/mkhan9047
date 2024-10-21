@@ -89,23 +89,14 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="50" />
 </a>  
-<a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
-  <img style="margin: 10px" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/000000/external-rnn-machine-learning-flat-icons-inmotus-design.png" alt="RNN" height="50" />
-</a>  
 <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
   <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=DYuG8jKiYeUD&format=png&color=000000" alt="CNN" height="50" />
 </a>  
 <a href="https://huggingface.co/transformers/" target="_blank">
   <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="BERT" height="50" />
 </a>  
-<a href="https://openai.com/research" target="_blank">
-  <img style="margin: 10px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-gpt-ai-flaticons-flat-flat-icons-2.png" alt="GPT" height="50" />
-</a>  
 <a href="https://spacy.io/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1280px-SpaCy_logo.svg.png" alt="spaCy" height="50" />
-</a>  
-<a href="https://www.nltk.org/" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_Logo.png" alt="NLTK" height="50" />
 </a>  
 <a href="https://keras.io/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" />
