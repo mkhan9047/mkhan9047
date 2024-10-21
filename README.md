@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center">I'm Mujahid Khan, a lead software engineer 👨‍💻 currently working as CEO & CTO 🚀 at OLL.E</div>
+<div align="center"> <b>I'm Mujahid Khan, a lead software engineer 👨‍💻 currently working as CEO & CTO 🚀 at OLL.E <b/></div>
 
 <br/>
 
